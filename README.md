@@ -36,7 +36,17 @@ bash
 Copy code
 pip install pygame
 
-3. Run the Game
+3. Clone the Repository
+Clone this repository to your local machine using Git. If you don't have Git installed, you can download it from git-scm.com.
+
+To clone the repository:
+
+Go to the directory where you want to store the project.
+Run the following command:
+bash
+Copy code
+git clone https://github.com/your-username/maze-game.git
+4. Run the Game
 Navigate to the project directory and run the Python script:
 
 bash
@@ -44,7 +54,7 @@ Copy code
 python maze_game.py
 This will launch the game, and you can start playing by using the arrow keys to navigate through the maze.
 
-4. Game Controls
+5. Game Controls
 Arrow Keys: Move the player (green square) through the maze.
 Goal: Reach the red square at the bottom-right corner to win the game.
 6. Exit
