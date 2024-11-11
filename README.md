@@ -35,19 +35,8 @@ Open your terminal/command prompt and run the following command:
 bash
 Copy code
 pip install pygame
-3. Clone the Repository
-Clone this repository to your local machine using Git. If you don't have Git installed, you can download it from git-scm.com.
 
-To clone the repository:
-
-Go to the directory where you want to store the project.
-Run the following command:
-bash
-Copy code
-git clone https://github.com/your-username/maze-game.git
-Replace your-username with your actual GitHub username.
-
-4. Run the Game
+3. Run the Game
 Navigate to the project directory and run the Python script:
 
 bash
@@ -55,7 +44,7 @@ Copy code
 python maze_game.py
 This will launch the game, and you can start playing by using the arrow keys to navigate through the maze.
 
-5. Game Controls
+4. Game Controls
 Arrow Keys: Move the player (green square) through the maze.
 Goal: Reach the red square at the bottom-right corner to win the game.
 6. Exit
@@ -72,7 +61,7 @@ Copy code
 
 ---
 
-### **Explanation of the Sections in the README**:
+ **Explanation of the Sections in the README**:
 
 1. **Project Description**: Briefly explains what the game is about.
 2. **Features**: Lists key features such as random maze generation, player movement, and the goal.
@@ -89,13 +78,3 @@ Copy code
 
 ---
 
-### **Next Steps**:
-1. **Make sure the repository is public**: So that others can access it.
-2. **Push your code to GitHub**: After writing the README and committing your code, push it to your GitHub repository.
-3. **Recording your gameplay video**: As per your requirements, record a short video showing the gameplay, and make sure to upload it to the relevant platform (e.g., YouTube or directly with the project).
-
-### **How to Push Your Code to GitHub**:
-1. **Commit Changes**: In GitHub Desktop, click the "Commit to main" button after adding the files.
-2. **Push to GitHub**: After committing, click the "Push origin" button to upload the changes.
-
----
